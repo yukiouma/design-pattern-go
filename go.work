@@ -1,0 +1,45 @@
+go 1.19
+
+use ./creational-abstract-factory
+
+use ./demo
+
+use ./creational-builder
+
+use ./creational-prototype
+
+use ./creational-singleton
+
+use ./structural-adapter
+
+use ./structural-bridge
+
+use ./structural-composite
+
+use ./structural-decorator
+
+use ./structural-facade
+
+use ./structural-flyweight
+
+use ./structural-proxy
+
+use ./structural-state
+
+use ./structural-strategy
+
+use ./structural-template-method
+
+use ./structural-visitor
+
+use ./behavioral-cor
+
+use ./behavioral-command
+
+use ./behavioral-iterator
+
+use ./behavioral-mediator
+
+use ./behavioral-memento
+
+use ./behavioral-observer
